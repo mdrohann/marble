@@ -1,0 +1,35 @@
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+  .card-title {
+    font-size: 14px;
+  }
+  .testi_con {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .hero_part {
+    padding: 200px 0px 120px;
+  }
+  .card-title {
+    font-size: 18px;
+  }
+  .testi_con {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .testi_con {
+    max-width: 95%;
+    margin: 0 auto;
+  }
+}
